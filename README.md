@@ -16,6 +16,5 @@ Kindly see the Given below url for more details about WDBASQLTUTORIAL....
 
 url: https://jemin777.github.io/WDBASQLTUTORIAL.github.io/HOME
 
-Google site  Url: https://sites.google.com/site/wnosqldatabasetutorial/
-
+Google site  Url: https://sites.google.com/site/wnosqlsecurabledatabase/
 
