@@ -16,10 +16,6 @@ Kindly see the Given below url for more details about WDBASQLTUTORIAL....
 
 url: https://jemin777.github.io/WDBASQLTUTORIAL.github.io/HOME
 
+Google site  Url: https://sites.google.com/site/wnosqldatabasetutorial/
 
-Note:
-=====
 
-Professional   can  see only   1%  of  WNOSQL   features  but   remaining  99%  of  wnosql  features  
-
-are  hidden  from  hackers..
