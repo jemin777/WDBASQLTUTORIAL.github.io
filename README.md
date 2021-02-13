@@ -1,10 +1,15 @@
-Welcome to WDBASQL DATABASE !
+Welcome to WDBASQL Securble DATABASE !
 
-==================
+=====================================
 
 Definition: "WNOSQL means Wilmix NOSQL.(W*SQL) is a Securable database invented by wilmix jemin j in GDollar ,and JAVA(jdk1.6) . No need to write any Queries but to pass parameters in WDBASQL database for PLSQL f(x).We can also write WDBASql queries like SQL Queries. WNOSQL is focused only on Windows Platform.
 
-WNOSQL   is  one  of  the  best   and   World  No:1  Advanced  Database..
+WNOSQL   is  one  of  the  best   and   World  No:1 Securable Advanced  Database..
+
+WNOSQL Securable Database for ProfessionalEdition
+===================================================
+This  GNUGPL  license  is  for  only  Professional  Edition only. But  enterprise  edition  is  not  free that  is  MIT licensed. since
+WNOSQL Securable  database   is  World No:1  Securable  database  and  it  is  dual Licensed invented  by  wilmix jemin j (Jemin Information Technology).
 
 ADVANTAGES of Using WNOSQL in Windows Platform
 
