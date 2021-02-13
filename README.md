@@ -11,6 +11,8 @@ WNOSQL Securable Database for ProfessionalEdition
 This  GNUGPL  license  is  for  only  Professional  Edition only. But  enterprise  edition  is  not  free that  is  MIT licensed. since
 WNOSQL Securable  database   is  World No:1  Securable  database  and  it  is  dual Licensed invented  by  wilmix jemin j (Jemin Information Technology).
 
+
+
 ADVANTAGES of Using WNOSQL in Windows Platform
 
 ====================================================
@@ -23,3 +25,5 @@ url: https://jemin777.github.io/WDBASQLTUTORIAL.github.io/HOME
 
 Google site  Url: https://sites.google.com/site/wnosqlsecurabledatabase/
 
+Note:  used  only  with  java/j2ee, writ technologies(Oakjava7,cdollar,jdollar,etc), Dotnet,php,etc.
+but  not  used  with  Python Programming language.
