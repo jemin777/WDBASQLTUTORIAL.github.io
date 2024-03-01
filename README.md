@@ -25,5 +25,7 @@ url: https://jemin777.github.io/WDBASQLTUTORIAL.github.io/HOME
 
 Google site  Url: https://sites.google.com/site/wnosqlsecurabledatabase/
 
-Note:  used  only  with  java/j2ee, writ technologies(Oakjava7,cdollar,jdollar,etc), Dotnet,php,etc.
-but  not  used  with  Python Programming language.
+Note:  used  only  with  java/j2ee, writ technologies(Oakjava7,cdollar,jdollar,etc), Dotnet,python,etc.
+Database connection  for python and Advanced wnosql queries will be implemented in Wnosql version -2. 
+
+
